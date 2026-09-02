@@ -1,0 +1,21 @@
+{
+  "name": "toge",
+  "displayName": "toge",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.136.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "toge",
+        "uiTheme": "vs-dark",
+        "path": "./themes/toge-color-theme.json"
+      }
+    ]
+  }
+}
