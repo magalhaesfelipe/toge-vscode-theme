@@ -189,7 +189,7 @@
     "menu.separatorBackground": "#191919"
   },
   "tokenColors": [
-    /* From Alabaster */
+    /* Alabaster based */
     {
       "name": "Comments",
       "scope": ["comment", "punctuation.definition.comment"],
