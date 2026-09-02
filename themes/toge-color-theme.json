@@ -263,13 +263,6 @@
         "background": "#56B6C233",
         "foreground": "#D2D6DB"
       }
-    },
-    {
-      "name": "Round Braces",
-      "scope": "meta.brace.round.tsx",
-      "settings": {
-        "foreground": "#00ff15"
-      }
     }
   ]
 }
