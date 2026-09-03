@@ -1,16 +1,42 @@
-# toge README
+<h1 align="center">Toge Theme for VS Code</h1>
 
-## Working with Markdown
+<!-- <p align="center">
+<a href="https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/antfu.theme-vitesse.svg?color=4d9375&amp;label=Marketplace&logo=visual-studio-code" alt="Visual Studio Marketplace Version" /></a>
+</p> -->
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+<!-- <p align="center">
+<img width="1275" alt="Screenshot Light Mode" src="https://github.com/user-attachments/assets/7fa3db7a-5b11-4622-a59b-1f7b3f837d0d">
+<img width="1275" alt="Screenshot Dark Mode" src="https://github.com/user-attachments/assets/2919bb08-596b-4279-9f1e-4d2f7d1913fb">
+<sub><samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Font | <a href="https://input.djr.com/">Input Mono</a><br>
+&nbsp;File Icons | <a href="https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons">Catppuccin</a><br>
+Product Icons | <a href="https://github.com/antfu/vscode-icons-carbon">Carbon</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Demo | <a href="https://github.com/antfu/vitesse">Vitesse</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></sub>
+</p> -->
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+<!-- ## Match with System -->
 
-## For more information
+<!--eslint-skip-->
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+<!-- ```jsonc
+// .vscode/setting.json
+{
+  "window.autoDetectColorScheme": true,
+  "workbench.preferredLightColorTheme": "Vitesse Light",
+  "workbench.preferredDarkColorTheme": "Vitesse Dark",
+}
+``` -->
 
-**Enjoy!**
+<!-- ## Links
+
+[prism-theme-vars](https://github.com/antfu/prism-theme-vars) - where the theme is born.
+
+[vitesse](https://github.com/antfu/vitesse) - what the theme was for.
+
+## Thanks
+
+This project is based on [github-vscode-theme](https://github.com/primer/github-vscode-theme). -->
+
+## License
+
+MIT - Copyright (c) 2026 Primer <br>
+MIT - Copyright (c) 2026 Felipe Magalhaes
