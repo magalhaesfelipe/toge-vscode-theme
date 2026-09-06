@@ -189,7 +189,6 @@
     "menu.separatorBackground": "#191919"
   },
   "tokenColors": [
-    /* Alabaster based */
     {
       "name": "Comments",
       "scope": ["comment", "punctuation.definition.comment"],
@@ -201,7 +200,7 @@
       "name": "Strings",
       "scope": ["string", "string.regexp", "constant.other.symbol"],
       "settings": {
-        "foreground": "#E6C384"
+        "foreground": "#e2b178"
       }
     },
     {
@@ -222,7 +221,7 @@
       "name": "Global definitions",
       "scope": "entity.name",
       "settings": {
-        "foreground": "#80a665"
+        "foreground": "#7D9B76"
       }
     },
     {
