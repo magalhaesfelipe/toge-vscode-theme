@@ -37,6 +37,11 @@
         "label": "toge 2",
         "uiTheme": "vs-dark",
         "path": "./themes/toge-color-theme-2.json"
+      },
+      {
+        "label": "toge",
+        "uiTheme": "vs-dark",
+        "path": "./themes/toge-donatello.json"
       }
     ]
   }
