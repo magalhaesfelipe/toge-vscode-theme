@@ -1,8 +1,8 @@
 {
   "name": "toge",
   "displayName": "Toge",
-  "description": "Kenshin Toge VS Code theme",
-  "version": "1.3.1",
+  "description": "Toge theme for VS Code",
+  "version": "1.3.2",
   "icon": "images/logo.png",
   "publisher": "FelipeMagalhaes",
   "repository": {
@@ -30,17 +30,17 @@
   "contributes": {
     "themes": [
       {
-        "label": "toge",
+        "label": "Toge",
         "uiTheme": "vs-dark",
         "path": "./themes/toge-color-theme.json"
       },
       {
-        "label": "toge 2",
+        "label": "Toge 2",
         "uiTheme": "vs-dark",
         "path": "./themes/toge-color-theme-2.json"
       },
       {
-        "label": "toge",
+        "label": "Toge Donatello",
         "uiTheme": "vs-dark",
         "path": "./themes/toge-donatello.json"
       }
