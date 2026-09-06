@@ -97,7 +97,7 @@
     "breadcrumb.background": "#181818",
     "breadcrumb.activeSelectionForeground": "#eeeeee18",
     "breadcrumbPicker.background": "#121212",
-    "editor.foreground": "#dbd7caee",
+    "editor.foreground": "#E8DCC4",
     "editor.background": "#1a1919",
     "editorWidget.background": "#121212",
     "editor.foldBackground": "#eeeeee10",
@@ -201,7 +201,7 @@
       "name": "Strings",
       "scope": ["string", "string.regexp", "constant.other.symbol"],
       "settings": {
-        "foreground": "#c9c36f"
+        "foreground": "#E6C384"
       }
     },
     {
