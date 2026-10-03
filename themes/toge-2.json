@@ -1,5 +1,5 @@
 {
-  "name": "toge",
+  "name": "toge 2",
   "colors": {
     "focusBorder": "#00000000",
     "foreground": "#dbd7caee",
@@ -97,7 +97,7 @@
     "breadcrumb.background": "#181818",
     "breadcrumb.activeSelectionForeground": "#eeeeee18",
     "breadcrumbPicker.background": "#121212",
-    "editor.foreground": "#dbd7caee",
+    "editor.foreground": "#E8DCC4",
     "editor.background": "#1a1919",
     "editorWidget.background": "#121212",
     "editor.foldBackground": "#eeeeee10",
@@ -189,7 +189,6 @@
     "menu.separatorBackground": "#191919"
   },
   "tokenColors": [
-    /* Alabaster based */
     {
       "name": "Comments",
       "scope": ["comment", "punctuation.definition.comment"],
@@ -201,7 +200,7 @@
       "name": "Strings",
       "scope": ["string", "string.regexp", "constant.other.symbol"],
       "settings": {
-        "foreground": "#c9c36f"
+        "foreground": "#e2b178"
       }
     },
     {
@@ -222,7 +221,7 @@
       "name": "Global definitions",
       "scope": "entity.name",
       "settings": {
-        "foreground": "#80a665"
+        "foreground": "#7D9B76"
       }
     },
     {
