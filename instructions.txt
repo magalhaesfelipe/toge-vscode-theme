@@ -1,4 +1,5 @@
 # After making some change, update the package.json version so it's not the same.
+# If you added a new theme, add it to the array `themes` in package.json
 # Then publish it using:
 
 vsce publish patch
