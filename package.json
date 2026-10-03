@@ -32,17 +32,17 @@
       {
         "label": "Toge",
         "uiTheme": "vs-dark",
-        "path": "./themes/toge-color-theme.json"
+        "path": "./themes/toge.json"
       },
       {
         "label": "Toge 2",
         "uiTheme": "vs-dark",
-        "path": "./themes/toge-color-theme-2.json"
+        "path": "./themes/toge-2.json"
       },
       {
-        "label": "Toge Donatello",
+        "label": "Toge 3",
         "uiTheme": "vs-dark",
-        "path": "./themes/toge-donatello.json"
+        "path": "./themes/toge-3.json"
       }
     ]
   }
