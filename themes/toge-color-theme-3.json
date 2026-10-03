@@ -30,7 +30,7 @@
     "badge.background": "#dedcd590",
     "progressBar.background": "#4d9375",
     "titleBar.activeForeground": "#bfbaaa",
-    "titleBar.activeBackground": "#121212",
+    "titleBar.activeBackground": "#1a1919",
     "titleBar.inactiveForeground": "#959da5",
     "titleBar.inactiveBackground": "#121212",
     "titleBar.border": "#181818",
@@ -194,7 +194,7 @@
       "name": "Comments",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#e0d39f"
+        "foreground": "#e06c8f"
       }
     },
     {
