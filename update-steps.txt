@@ -1,0 +1,4 @@
+# After making some change, update the package.json version so it's not the same.
+# Then publish it using:
+
+vsce publish patch
