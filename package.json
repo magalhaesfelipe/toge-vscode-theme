@@ -1,49 +1,54 @@
 {
-  "name": "toge",
-  "displayName": "Toge",
-  "description": "Toge theme for VS Code",
-  "version": "1.4.4",
-  "icon": "images/logo.png",
-  "publisher": "FelipeMagalhaes",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/magalhaesfelipe/kenshin-toge"
-  },
-  "keywords": [
-    "theme",
-    "dark theme",
-    "dark",
-    "minimal",
-    "minimalist",
-    "productivity",
-    "focus",
-    "felipe magalhaes",
-    "FelipeMagalhaes",
-    "theFelipeMagalhaes"
-  ],
-  "engines": {
-    "vscode": "^1.80.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Toge",
-        "uiTheme": "vs-dark",
-        "path": "./themes/toge.json"
-      },
-      {
-        "label": "Toge 2",
-        "uiTheme": "vs-dark",
-        "path": "./themes/toge-2.json"
-      },
-      {
-        "label": "Toge 3",
-        "uiTheme": "vs-dark",
-        "path": "./themes/toge-3.json"
-      }
-    ]
-  }
+	"name": "toge",
+	"displayName": "Toge",
+	"description": "Toge theme for VS Code",
+	"version": "1.5.0",
+	"icon": "images/logo.png",
+	"publisher": "FelipeMagalhaes",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/magalhaesfelipe/kenshin-toge"
+	},
+	"keywords": [
+		"theme",
+		"dark theme",
+		"dark",
+		"minimal",
+		"minimalist",
+		"productivity",
+		"focus",
+		"felipe magalhaes",
+		"FelipeMagalhaes",
+		"theFelipeMagalhaes"
+	],
+	"engines": {
+		"vscode": "^1.80.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Toge",
+				"uiTheme": "vs-dark",
+				"path": "./themes/toge.json"
+			},
+			{
+				"label": "Toge 2",
+				"uiTheme": "vs-dark",
+				"path": "./themes/toge-2.json"
+			},
+			{
+				"label": "Toge 3",
+				"uiTheme": "vs-dark",
+				"path": "./themes/toge-3.json"
+			},
+			{
+				"label": "Ivory",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ivory.json"
+			}
+		]
+	}
 }
